@@ -1,3 +1,3 @@
 # Projects
 
-This a a project using Java, Mysql and PHP. 
+This a a project using Java, Mysql and PHP.
